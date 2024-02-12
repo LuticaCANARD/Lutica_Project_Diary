@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "862696c6b90978c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "b128e538902df376",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "190c28297296f896",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cs_Base/Csharp 환경에서의 비동기 처리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5539525c0a91093d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cd5e92fda5e7823d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1020d3847b042f8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ea043586f66d64a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1cd02b788f55fc64",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "85fa5d30a3611845",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "46e8a266a022ce1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "96ecc46da5b6e7df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfc560b24afbb3b4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "72b634b79c9809ec",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4da5ddc848913215",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f813d6766d5afe3e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5539525c0a91093d",
+  "lastOpenFiles": [
+    "Cs_Base/Csharp 환경에서의 비동기 처리.md",
+    "image/Pasted image 20240212151653.png",
+    "image/Pasted image 20240212142835.png",
+    "image",
+    "Cs_Base"
+  ]
+}
