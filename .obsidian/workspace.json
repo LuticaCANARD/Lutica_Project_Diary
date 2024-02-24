@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Redis/Redlock algorithm.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Redis/Redlock algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Redis/Redlock algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Redis/Redlock algorithm.md"
               }
             }
           }
@@ -161,6 +161,9 @@
   },
   "active": "5539525c0a91093d",
   "lastOpenFiles": [
+    "README.md",
+    "Redis/Redlock algorithm.md",
+    "Redis",
     "Cs_Base/Csharp 환경에서의 비동기 처리.md",
     "image/Pasted image 20240212151653.png",
     "image/Pasted image 20240212142835.png",
