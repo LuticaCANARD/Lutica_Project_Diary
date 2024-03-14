@@ -12,7 +12,7 @@
 
 ### Await-Async와 Task를 사용할 때 주의점
 
-![[../image/Pasted image 20240212142835.png]]
+![[Pasted_image_20240212142835.png]]
 
 - `.ConfigureAwait(false);`를 통해서 `await` 구문을  `task`형식으로 바꾸어주면 해결이 되긴 합니다.
 - 이 함수는 `await/async`가 사용하는 `SynchronizationContext` Class에서 Task가 종료되길 기다리지 않고 바로 실행시켜주는 
@@ -66,7 +66,7 @@ class Program
 }
 
 ```
-![[../image/Pasted image 20240212151653.png]]
+![[Pasted_image_20240212151653.png]]
 - 그 이유는 **하나의 메모리에 여러 스레드가 개입했기 때문입니다.**
 - 
 

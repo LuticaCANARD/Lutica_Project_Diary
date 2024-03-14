@@ -20,14 +20,24 @@
             }
           },
           {
-            "id": "5539525c0a91093d",
+            "id": "99ae7798e8af5cfe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Cs_Base/Csharp 환경에서의 비동기 처리.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "5539525c0a91093d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "image/Pasted_image_20240212151653.png"
               }
             }
           }
@@ -98,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Cs_Base/Csharp 환경에서의 비동기 처리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Cs_Base/Csharp 환경에서의 비동기 처리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Cs_Base/Csharp 환경에서의 비동기 처리.md"
               }
             }
           }
@@ -159,11 +169,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5539525c0a91093d",
+  "active": "0ea043586f66d64a",
   "lastOpenFiles": [
+    "이력정리.md",
+    "image/Pasted_image_20240212151653.png",
     "Cs_Base/Csharp 환경에서의 비동기 처리.md",
-    "image/Pasted image 20240212151653.png",
-    "image/Pasted image 20240212142835.png",
+    "image/Pasted_image_20240212142835.png",
+    "README.md",
     "image",
     "Cs_Base"
   ]
